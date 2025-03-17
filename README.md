@@ -61,8 +61,8 @@ For more information, do not forget to check out the following:
 
 
 === AvatarUX script execution requirements !!! ===
-1. MS VSCode ver. 1.98.1 or above
-2. Screen resolution 2K - 2560x1600 - under a default settings
+1. MS VSCode ver. 1.98.1 or above.
+2. Screen resolution 2K - 2560x1600 - under a default settings - only one active monitor during execution. 
 3. All requirements from conda.yaml file!
-4. AvatarUX script is executed by pressing the CTRL+Shift+P and select Robocorp: Run Task Package (Robot) 
-5. Screenshots are collected to output/sc folder
+4. AvatarUX script is executed by pressing the CTRL+Shift+P and select Robocorp: Run Task Package (Robot). 
+5. Screenshots are collected to output/sc folder.
